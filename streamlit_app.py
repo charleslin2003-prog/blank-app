@@ -5,8 +5,8 @@ import numpy_financial as npf
 import plotly.graph_objects as go
 
 # --- 網頁配置 ---
-st.set_page_config(page_title="專業理財決策 v6.4", layout="wide")
-st.title("🧪 專業理財決策模擬：v6.4 友善視覺版")
+st.set_page_config(page_title="專業理財決策", layout="wide")
+st.title("🧪 專業理財決策模擬")
 
 # --- 1. 左側參數設定 ---
 with st.sidebar:
